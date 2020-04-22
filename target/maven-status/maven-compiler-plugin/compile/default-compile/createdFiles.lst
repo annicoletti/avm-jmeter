@@ -1,0 +1,5 @@
+br/com/cpqd/avm/app/App.class
+br/com/cpqd/avm/model/Guest.class
+br/com/cpqd/avm/tests/Utils.class
+br/com/cpqd/avm/tests/Assertion.class
+br/com/cpqd/avm/generator/Generator.class
